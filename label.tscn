@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgv58otais682"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_777an"]
+font_size = 50
+font_color = Color(0.537255, 0, 0, 1)
+outline_size = 7
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 0
+shadow_color = Color(0.815686, 0, 0, 1)
+shadow_offset = Vector2(5, 5)
+
+[node name="Label" type="Label"]
+offset_left = 447.0
+offset_top = 268.0
+offset_right = 578.0
+offset_bottom = 294.0
+text = "Dustin Fulkerson"
+label_settings = SubResource("LabelSettings_777an")
